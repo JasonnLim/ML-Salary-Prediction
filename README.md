@@ -6,5 +6,3 @@ List of Libraries Used
 3. Matplotlib
 4. Seaborn
 5. Scikit-Learn
-
-Hello World
