@@ -7,6 +7,7 @@ List of Libraries Used
 4. Seaborn
 5. Scikit-Learn
 
+
 Algorithms Used to Train the Model
 1. Logistic Regression
 2. Decision Tree Classifier
