@@ -15,4 +15,4 @@ Algorithms Used to Train the Model
 3. Random Forest Classifier
 4. K Nearest Neighbour
 5. Stochastic Gradient Descent (SGD)
-6. Support Vector Machine (SVM)
+6. Multilayer Perceptrons (MLP)
